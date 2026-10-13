@@ -1,16 +1,17 @@
-## Hi there 👋
+# Vickey Classic
 
-<!--
-**Vickeyclassic/Vickeyclassic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build Java full stack applications with Spring Boot, React and MySQL, focusing on authentication, business workflows, data integrity and reporting.
 
-Here are some ideas to get you started:
+## Selected projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it demonstrates |
+| --- | --- |
+| [Phoenix Gym Business](https://github.com/Vickeyclassic/phoenix-gym-business) | Owner/admin/staff access, persistent logout revocation, membership operations, audit logs, reports and versioned database migrations |
+| [StockFlow](https://github.com/Vickeyclassic/stockflow) | Inventory history, transactional purchase/sales workflows, role-based APIs, Flyway migrations and automated checks |
+| [Phoenix Gym Management](https://github.com/Vickeyclassic/phoenix-gym-management) | Member registration, renewals, payments, attendance and Excel exports with a deployed frontend/API |
+
+## Tools I use in these projects
+
+Java 21 · Spring Boot · Spring Security · REST APIs · JPA/Hibernate · MySQL · Flyway · React · Vite · Docker · GitHub Actions
+
+Explore each repository for architecture, setup instructions, tests and current limitations.
