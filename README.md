@@ -8,7 +8,6 @@ I build Java full stack applications with Spring Boot, React and MySQL, focusing
 | --- | --- |
 | [Phoenix Gym Business](https://github.com/Vickeyclassic/phoenix-gym-business) | Owner/admin/staff access, persistent logout revocation, membership operations, audit logs, reports and versioned database migrations |
 | [StockFlow](https://github.com/Vickeyclassic/stockflow) | Inventory history, transactional purchase/sales workflows, role-based APIs, Flyway migrations and automated checks |
-| [Phoenix Gym Management](https://github.com/Vickeyclassic/phoenix-gym-management) | Member registration, renewals, payments, attendance and Excel exports with a deployed frontend/API |
 
 ## Tools I use in these projects
 
